@@ -11,4 +11,4 @@ while n>0:
 if sum == number:
      print(number,"is arm strong number")
 else:
-     print(number,"is not arm strong number")
+     print(number,"is not arm strong number12 ")
